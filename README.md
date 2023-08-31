@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@abizrdxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abizrdxx" height="30" width="40" /></a>
+<a href="[https://instagram.com/@abizrdxx](https://instagram.com/abzrdn?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abizrdxx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
