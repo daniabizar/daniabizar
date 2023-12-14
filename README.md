@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **daniabizar.44@gmail.com**
 
-- ⚡ Fun fact **I'm still confused about whether to focus on Data Science, Mobile Development, or Web Development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abzrdn?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abizrdxx" height="30" width="40" /></a>
